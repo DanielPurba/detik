@@ -1,0 +1,14 @@
+{
+    "name": "daniel/ticket-generator",
+    "description": "A module to generate ticket",
+    "authors": [
+        {
+            "name": "Daniel Purba",
+            "email": "dspurbas@gmail.com"
+        }
+    ],
+    "require": {
+        "robmorgan/phinx": "*",
+        "vlucas/phpdotenv": "^5.4"
+    }
+}
